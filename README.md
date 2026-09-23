@@ -2,7 +2,7 @@
 
 # Licia Zheng
 
-M.S. Student in Analytics<br>
+Master of Science in Analytics<br>
 Northeastern University, Boston, MA
 
 Data analysis · public health & archival data · Python, SQL, panel models
