@@ -1,5 +1,8 @@
 ## Licia Zheng
 
+**Data analysis · public health & archival data · Python, SQL, panel models · Boston, MA**<br>
+[LinkedIn](https://www.linkedin.com/in/liciazheng) · [Email](mailto:zhenglicia1801@gmail.com)
+
 Moving from economics into data analysis. I like questions where the answer depends on getting the data right first.
 
 Most of what I publish here follows the same habit: audit the data before trusting it, do every correction in code so it stays visible and reproducible, and say plainly which conclusions did not survive.
@@ -18,9 +21,6 @@ Built on 56 years of FRED data. Automatic event matching pairs each large monthl
 
 **[Wine cellar management system](https://github.com/liciazheng/wine-cellar-management-system)**
 A relational schema in SQLite, third normal form, with the modelling decisions written down: why the wine name, grape and appellation are three columns instead of one, why the drinking window is two integers instead of a string, and why a tasting note has to record who wrote it.
-
-**[LeetCode solutions](https://github.com/liciazheng/Leetcode-Solutions1)**
-Python 3, with notes on the dynamic programming problems.
 
 ### Tools
 
