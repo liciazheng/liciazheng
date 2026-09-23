@@ -2,8 +2,10 @@
 
 # Licia Zheng
 
-Data analysis · public health & archival data<br>
-Python, SQL, panel models · Boston, MA
+M.S. Student in Analytics<br>
+Northeastern University, Boston, MA
+
+Data analysis · public health & archival data · Python, SQL, panel models
 
 [LinkedIn](https://www.linkedin.com/in/liciazheng) · [Email](mailto:zhenglicia1801@gmail.com)
 
