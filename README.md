@@ -7,7 +7,7 @@ Northeastern University, Boston, MA
 
 Data analysis · public health & archival data · Python, SQL, panel models
 
-[LinkedIn](https://www.linkedin.com/in/liciazheng) · [Email](mailto:zhenglicia1801@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/liciazheng) · [Email](mailto:zhenglicia1801@gmail.com) · [CV](Licia_Zheng_CV.pdf)
 
 </div>
 
