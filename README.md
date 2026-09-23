@@ -1,11 +1,23 @@
-## Licia Zheng
+<div align="center">
 
-**Data analysis · public health & archival data · Python, SQL, panel models · Boston, MA**<br>
+# Licia Zheng
+
+Data analysis · public health & archival data<br>
+Python, SQL, panel models · Boston, MA
+
 [LinkedIn](https://www.linkedin.com/in/liciazheng) · [Email](mailto:zhenglicia1801@gmail.com)
+
+</div>
+
+---
+
+### About Me
 
 Moving from economics into data analysis. I like questions where the answer depends on getting the data right first.
 
 Most of what I publish here follows the same habit: audit the data before trusting it, do every correction in code so it stays visible and reproducible, and say plainly which conclusions did not survive.
+
+---
 
 ### Projects
 
